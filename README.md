@@ -1,5 +1,8 @@
 # Frontend Mentor - Four card feature section
 
+
+ფრონტენდ მენტორის პროექტი ოთხი ბარატის განლაგებაა Grid ის გამოყენებით Html-Css with responsive
+
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
